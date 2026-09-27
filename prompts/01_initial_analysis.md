@@ -1,0 +1,1 @@
+Using only the two source layers, identify the 15 most significant architectural gaps between Fleet Dispatch V2 and the modernization requirements. For each gap, distinguish documented facts, requirements, external reference guidance, inference, and recommendation. Cite the supporting sources. Do not propose specific cloud products
